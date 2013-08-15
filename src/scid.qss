@@ -1,0 +1,32 @@
+QPushButton#CommitBtn{  
+	background:   #7EC0EE;   
+    border-style: outset;   
+    border-width: 3px;   
+    border-radius: 8px;   
+    border-color: #87CEFF;   
+    padding: 1px;   
+}   
+
+QPushButton#ReturnBtn{  
+	background:   #7EC0EE;   
+    border-style: outset;   
+    border-width: 3px;   
+    border-radius: 8px;   
+    border-color: #87CEFF;   
+    padding: 1px;   
+} 
+
+QToolBar{
+	background: #EDEDED
+}
+
+QMenuBar {
+	background: #EDEDED;
+}
+QLineEdit,QTextEdit {   
+    border: 1px solid #32435E;   
+    border-radius: 3px;   
+    /* padding: 0 8px; */  
+    background: #FFFFFF;    
+    selection-background-color: #00FFFF;   
+}

@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="RegisterServer">
+    <file>back.png</file>
+    <file>back.jpg</file>
+  </qresource>
+</RCC>

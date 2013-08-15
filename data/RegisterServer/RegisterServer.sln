@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RegisterServer", "RegisterServer\RegisterServer.vcproj", "{8095DB36-4BAC-4F96-B930-B251F2087FA3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8095DB36-4BAC-4F96-B930-B251F2087FA3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8095DB36-4BAC-4F96-B930-B251F2087FA3}.Debug|Win32.Build.0 = Debug|Win32
+		{8095DB36-4BAC-4F96-B930-B251F2087FA3}.Release|Win32.ActiveCfg = Release|Win32
+		{8095DB36-4BAC-4F96-B930-B251F2087FA3}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
